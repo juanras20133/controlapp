@@ -1,7 +1,7 @@
 {
-  "bloqueado": false,
+  "bloqueado": true,
   "version_actual": "1.0.0",
-  "mensaje_update": "Nueva versión disponible. Por favor, descarga la última actualización para seguir usando la app.",
+  "mensaje_update": "Aplicandi Parches de Seguridad porfavor espera.",
   "url_descarga": "https://",
-  "mantenimiento": false
+  "mantenimiento": true
 }
